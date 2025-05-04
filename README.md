@@ -5,7 +5,7 @@
 - 📫 How to reach me
       mail: saiyyamlodaya@gmail.com
       linkedin: saiyyam-lodaya
-- ⚡ Fun fact: I like watching tv shows and love cars a lot!!!!!!!
+
 
 <!---
 Saiyyam1003/Saiyyam1003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
